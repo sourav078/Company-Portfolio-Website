@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Major Steel Bd</title>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="assets/fonts/font-awesome/font-awesome.css" />
+
+        <link rel="stylesheet" type="text/css" href="assets/css/animate.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="assets/fancybox3/dist/jquery.fancybox.min.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="assets/slick.slider/slick-theme.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="assets/slick.slider/slick.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="assets/fonts/custom-fonts.css" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+            rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="assets/css/responsive.css" />
+    </head>
+
+    <body>
+        <header class="header">
+            <div class="header-tp">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="header-tp-innr">
+                                <div class="header-tp-lft">
+                                    <ul class="clearfix reset-list">
+                                        <li>
+                                            <a href="mailto:info@majorsteel.com"
+                                                ><i class="fas fa-envelope"></i>
+                                                info@majorsteel.com</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a href="tel:01622994455"
+                                                ><i
+                                                    class="fas fa-phone-volume"></i>
+                                                + 88 01622114455</a
+                                            >
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="header-tp-rgt">
+                                    <ul class="clearfix reset-list">
+                                        <li>
+                                            <a class="active" href="award.html"
+                                                >Award</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a
+                                                href="assets/images/BROCHURE.pdf"
+                                                target="_blank"
+                                                >BROCHURE</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a href="certificate.html"
+                                                >CERTIFICATE</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a href="contact-us.html"
+                                                >CONTACT US</a
+                                            >
+                                        </li>
+                                    </ul>
+                                    <p class="part-btn">
+                                        Part of major group
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-btm">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="header-inr clearfix">
+                                <div class="hdr-lft">
+                                    <div class="logo">
+                                        <a href="index.html"
+                                            ><img src="assets/images/logo.png"
+                                        /></a>
+                                    </div>
+                                </div>
+                                <div class="hdr-middel">
+                                    <div class="xs-hambergar">
+                                        <div class="hambergar-icon">
+                                            <span></span>
+                                            <span></span>
+                                            <span></span>
+                                        </div>
+                                    </div>
+                                    <div class="hdr-rgt">
+                                        <nav class="main-nav">
+                                            <ul class="clearfix reset-list">
+                                                <li>
+                                                    <a href="index.html"
+                                                        >Home</a
+                                                    >
+                                                </li>
+                                                <li
+                                                    class="menu-item-has-children">
+                                                    <a href="javascript:void(0)"
+                                                        >ABOUT US</a
+                                                    >
+                                                    <ul class="sub-menu">
+                                                        <li>
+                                                            <a
+                                                                href="mission.html"
+                                                                >Mission</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="vision.html"
+                                                                >Vision</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="company-profile.html"
+                                                                >Company
+                                                                Profile</a
+                                                            >
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li
+                                                    class="menu-item-has-children">
+                                                    <a href="javascript:void(0)"
+                                                        >Our Project</a
+                                                    >
+                                                    <ul class="sub-menu">
+                                                        <li>
+                                                            <a
+                                                                href="industrial-building.html"
+                                                                >Industrial
+                                                                Building</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="commercial-building.html"
+                                                                >Commercial
+                                                                Building</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="residential-building.html"
+                                                                >Residential
+                                                                Building</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="civil-works.html"
+                                                                >Civil Works</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="power-plant.html"
+                                                                >Power Plant</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="reinforced-cement-concrete.html"
+                                                                >RCC</a
+                                                            >
+                                                        </li>
+                                                        <li>
+                                                            <a
+                                                                href="multistoried-steel-building.html"
+                                                                >Steel
+                                                                Building</a
+                                                            >
+                                                        </li>
+
+                                                        <li>
+                                                            <a
+                                                                href="factory-setup.html"
+                                                                >Factory
+                                                                Setup</a
+                                                            >
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li></li>
+
+                                                <li>
+                                                    <a
+                                                        href="equipment-list.html"
+                                                        >Equipment List</a
+                                                    >
+                                                </li>
+                                                <li>
+                                                    <a href="license.html"
+                                                        >Our License</a
+                                                    >
+                                                </li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section class="hm-slider-sec-wrp">
+            <div class="bnr-nxt-prev">
+                <span
+                    class="fl-prev slick-arrow slick-disabled"
+                    aria-disabled="true">
+                    <i class="fas fa-angle-left"></i>
+                </span>
+                <span class="fl-next slick-arrow" aria-disabled="false">
+                    <i class="fas fa-angle-right"></i>
+                </span>
+            </div>
+            <div class="hm-slider">
+                <div
+                    class="hm-slide-item inline-bg"
+                    style="
+                        background: url(assets/images/slider/hm-slider-img-8.jpg);
+                    ">
+                    <div class="hm-slide-item-dsc-inr">
+                        <div class="hm-contact-nmb-wrp">
+                            <h4>
+                                <a href="#">01622 114455 </a> |
+                                <a href="#"> 01622 994455</a> |
+                                <a href="">01711 684038</a>
+                                <span><i class="fas fa-phone"></i></span>
+                            </h4>
+                        </div>
+                        <div class="hm-slide-item-dsc">
+                            <h1 class="hm-slide-bn-fnt-2">
+                                <span style="color: #fe0101"
+                                    >Targeting high</span
+                                >
+                                <br />
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-1">
+                                <span style="color: #ffc107"
+                                    >impact exploration</span
+                                >
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-3">
+                                <span>Offshore Industry</span>
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="hm-slide-item inline-bg"
+                    style="
+                        background: url(assets/images/slider/hm-slider-img-9.jpg);
+                    ">
+                    <div class="hm-slide-item-dsc-inr">
+                        <div class="hm-contact-nmb-wrp">
+                            <h4>
+                                <a href="#">01622 114455 </a> |
+                                <a href="#"> 01622 994455</a> |
+                                <a href="">01711 684038</a>
+                                <span><i class="fas fa-phone"></i></span>
+                            </h4>
+                        </div>
+                        <div class="hm-slide-item-dsc">
+                            <h1 class="hm-slide-bn-fnt-2">
+                                <span style="color: #fe0101"
+                                    >It has own pre-engineered steel</span
+                                >
+                                <br />
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-1">
+                                <span style="color: #ffc107"
+                                    >buildings manufacturing plant</span
+                                >
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-3">
+                                <span>over on the outskirts</span>
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="hm-slide-item inline-bg"
+                    style="
+                        background: url(assets/images/slider/hm-slider-img-10.jpg);
+                    ">
+                    <div class="hm-slide-item-dsc-inr">
+                        <div class="hm-contact-nmb-wrp">
+                            <h4>
+                                <a href="#">01622 114455 </a> |
+                                <a href="#"> 01622 994455</a> |
+                                <a href="">01711 684038</a>
+                                <span><i class="fas fa-phone"></i></span>
+                            </h4>
+                        </div>
+                        <div class="hm-slide-item-dsc">
+                            <h1 class="hm-slide-bn-fnt-2">
+                                <span style="color: #fe0101"
+                                    >the clients are assured</span
+                                >
+                                <br />
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-1">
+                                <span style="color: #1f944e"
+                                    >of quality product</span
+                                >
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-3">
+                                <span>accredited by the ORI</span>
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="hm-slide-item inline-bg"
+                    style="
+                        background: url(assets/images/slider/hm-slider-img-11.jpg);
+                    ">
+                    <div class="hm-slide-item-dsc-inr">
+                        <div class="hm-contact-nmb-wrp">
+                            <h4>
+                                <a href="#">01622 114455 </a> |
+                                <a href="#"> 01622 994455</a> |
+                                <a href="">01711 684038</a>
+                                <span><i class="fas fa-phone"></i></span>
+                            </h4>
+                        </div>
+                        <div class="hm-slide-item-dsc">
+                            <h1 class="hm-slide-bn-fnt-2">
+                                <span style="color: #fe0101"
+                                    >We deal with
+                                </span>
+                                <br />
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-1">
+                                <span style="color: #ffc107"
+                                    >various types of
+                                </span>
+                            </h1>
+                            <h1 class="hm-slide-bn-fnt-3">
+                                <span>civil and construction works</span>
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-our-welcome-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="hm-enty-head text-center text-uppercase">
+                            <h2><span>Welcome</span> to Our Company</h2>
+                            <p>factory manufacturer plan</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row align-items-center">
+                    <div class="col-md-5">
+                        <div
+                            id="carouselExampleIndicators"
+                            class="carousel slide"
+                            data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li
+                                    data-target="#carouselExampleIndicators"
+                                    data-slide-to="0"
+                                    class="active"></li>
+                                <li
+                                    data-target="#carouselExampleIndicators"
+                                    data-slide-to="1"></li>
+                                <li
+                                    data-target="#carouselExampleIndicators"
+                                    data-slide-to="2"></li>
+                                <li
+                                    data-target="#carouselExampleIndicators"
+                                    data-slide-to="3"></li>
+                                <li
+                                    data-target="#carouselExampleIndicators"
+                                    data-slide-to="5"></li>
+                                <li
+                                    data-target="#carouselExampleIndicators"
+                                    data-slide-to="6"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img
+                                        src="assets/images/welcome/welcome.jpg"
+                                        alt="" />
+                                </div>
+                                <div class="carousel-item">
+                                    <img
+                                        src="assets/images/welcome/welcome-1.jpg"
+                                        alt="" />
+                                </div>
+                                <div class="carousel-item">
+                                    <img
+                                        src="assets/images/welcome/welcome-2.jpg"
+                                        alt="" />
+                                </div>
+                                <div class="carousel-item">
+                                    <img
+                                        src="assets/images/welcome/welcome-3.jpg"
+                                        alt="" />
+                                </div>
+
+                                <div class="carousel-item">
+                                    <img
+                                        src="assets/images/welcome/welcome-5.jpg"
+                                        alt="" />
+                                </div>
+                                <div class="carousel-item">
+                                    <img
+                                        src="assets/images/welcome/welcome-6.jpg"
+                                        alt="" />
+                                </div>
+                            </div>
+                            <a
+                                class="carousel-control-prev"
+                                href="#carouselExampleIndicators"
+                                role="button"
+                                data-slide="prev">
+                                <span
+                                    class="carousel-control-prev-icon"
+                                    aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a
+                                class="carousel-control-next"
+                                href="#carouselExampleIndicators"
+                                role="button"
+                                data-slide="next">
+                                <span
+                                    class="carousel-control-next-icon"
+                                    aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <p class="wel-text font-weight-bold text-justify">
+                            Quantam Group (QG) was established in 2002, as Major
+                            Steel Building Technology Ltd (MSBTL) by the founder
+                            of the company A.K.M. Altaf Hossain. It has own
+                            pre-engineered steel buildings manufacturing plant
+                            that spans over 40,000 square feet on the outskirts
+                            of Dhaka, at Quantam Industrial Park, Shalna,
+                            Gazipur
+                        </p>
+                        <p class="text-justify">
+                            (approximately 15 Kilometers from Hazrat Shahjalal
+                            International Airport, Dhaka). By Partnering with
+                            QG, the clients are assured of quality product. QG
+                            is accredited by the ORI (ISO 9001:2008.)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-our-mision-vision-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="hm-our-mis-vis-item">
+                            <div class="hm-our-mis-vis-item-dsc">
+                                <b></b>
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-mis-vis-item-icon-1.png"
+                                /></span>
+                                <h2>VISION</h2>
+                                <p>
+                                    To be the world’s most reliable and
+                                    innovative
+                                </p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-mis-vis-item">
+                            <div class="hm-our-mis-vis-item-dsc">
+                                <b></b>
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-mis-vis-item-icon-2.png"
+                                /></span>
+                                <h2>MISSION</h2>
+                                <p>
+                                    To be the world’s most reliable and
+                                    innovative
+                                </p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-mis-vis-item">
+                            <div class="hm-our-mis-vis-item-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-mis-vis-item-icon-3.png"
+                                /></span>
+                                <h2>VIEWPOINT</h2>
+                                <p>
+                                    To be the world’s most reliable and
+                                    innovative
+                                </p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-our-special-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="hm-enty-head text-center">
+                            <h2><span>OUR</span> SPECIALTIES</h2>
+                            <p>
+                                All type of Civil Construction works, Design,
+                                Fabrication and Supply of pre-fabricated steel
+                                structure building.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="industrial-building.html"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-1.png"
+                                /></span>
+                                <h3>Industrial Building</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="multistoried-steel-building.html   "
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-2.png"
+                                /></span>
+                                <h3>Multistoried Steel Building</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="#"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-3.png"
+                                /></span>
+                                <h3>Garments Factory</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="#"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-4.png"
+                                /></span>
+                                <h3>warehouse</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="#"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-5.png"
+                                /></span>
+                                <h3>Showrooms</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="#"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-6.png"
+                                /></span>
+                                <h3>Filling Station</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="#"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-7.png"
+                                /></span>
+                                <h3>Commercial building</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="#"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-8.png"
+                                /></span>
+                                <h3>Textile Mills</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hm-our-special-grid">
+                            <div class="hm-our-special-hover">
+                                <a href="#"
+                                    ><i class="fas fa-eye"></i> View Details</a
+                                >
+                            </div>
+                            <div class="hm-our-special-grid-dsc">
+                                <span
+                                    ><img
+                                        src="assets/images/hm-our-special-grid-dsc-img-9.png"
+                                /></span>
+                                <h3>Shopping Malls</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-project-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="hm-enty-head text-center">
+                            <h2>PROJECT</h2>
+                        </div>
+                        <div class="hm-project-slider">
+                            <div class="hm-project-slide-item">
+                                <div class="hm-project-slide-item-img-cntlr">
+                                    <div class="hm-project-slide-item-img">
+                                        <img
+                                            src="assets/images/multistoried-steel-building/multistoried-steel-building-3.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="hm-project-slide-item">
+                                <div class="hm-project-slide-item-img-cntlr">
+                                    <div class="hm-project-slide-item-img">
+                                        <img
+                                            src="assets/images/multistoried-steel-building/multistoried-steel-building-4.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="hm-project-slide-item">
+                                <div class="hm-project-slide-item-img-cntlr">
+                                    <div class="hm-project-slide-item-img">
+                                        <img
+                                            src="assets/images/project/porject-1.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="hm-project-slide-item">
+                                <div class="hm-project-slide-item-img-cntlr">
+                                    <div class="hm-project-slide-item-img">
+                                        <img
+                                            src="assets/images/project/porject-2.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="hm-project-slide-item">
+                                <div class="hm-project-slide-item-img-cntlr">
+                                    <div class="hm-project-slide-item-img">
+                                        <img
+                                            src="assets/images/project/porject-3.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-client-list-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="hm-client-list-wrp">
+                            <div class="hm-enty-head text-center">
+                                <h2><span>OUR</span> CLIENTS</h2>
+                            </div>
+                            <div class="hm-client-list-slider-cntlr">
+                                <div class="bnr-nxt-prev1">
+                                    <span
+                                        class="fl-prev slick-arrow slick-disabled"
+                                        aria-disabled="true">
+                                        <i class="fas fa-angle-left"></i>
+                                    </span>
+                                    <span
+                                        class="fl-next slick-arrow"
+                                        aria-disabled="false">
+                                        <i class="fas fa-angle-right"></i>
+                                    </span>
+                                </div>
+                                <div class="hm-client-list-slider">
+                                    <div class="hm-client-list-slide-item">
+                                        <div
+                                            class="hm-client-list-slide-item-innr">
+                                            <div
+                                                class="hm-client-list-slide-item-img">
+                                                <img
+                                                    src="assets/images/hm-client-list-slide-item-img-1.png" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hm-client-list-slide-item">
+                                        <div
+                                            class="hm-client-list-slide-item-innr">
+                                            <div
+                                                class="hm-client-list-slide-item-img">
+                                                <img
+                                                    src="assets/images/hm-client-list-slide-item-img-2.png" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hm-client-list-slide-item">
+                                        <div
+                                            class="hm-client-list-slide-item-innr">
+                                            <div
+                                                class="hm-client-list-slide-item-img">
+                                                <img
+                                                    src="assets/images/hm-client-list-slide-item-img-3.png" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hm-client-list-slide-item">
+                                        <div
+                                            class="hm-client-list-slide-item-innr">
+                                            <div
+                                                class="hm-client-list-slide-item-img">
+                                                <img
+                                                    src="assets/images/hm-client-list-slide-item-img-4.png" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hm-client-list-slide-item">
+                                        <div
+                                            class="hm-client-list-slide-item-innr">
+                                            <div
+                                                class="hm-client-list-slide-item-img">
+                                                <img
+                                                    src="assets/images/hm-client-list-slide-item-img-5.png" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hm-client-list-slide-item">
+                                        <div
+                                            class="hm-client-list-slide-item-innr">
+                                            <div
+                                                class="hm-client-list-slide-item-img">
+                                                <img
+                                                    src="assets/images/hm-client-list-slide-item-img-6.png" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-gallery-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="hm-enty-head text-center">
+                            <h2 style="margin-bottom: 40px">Gallery</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <div class="hm-gallery-grid">
+                            <div class="hm-gallery-grid-img-cntlr">
+                                <div class="hm-gallery-grid-img">
+                                    <img src="assets/images/gallery-1.jpg" />
+                                </div>
+                            </div>
+                            <div class="hm-gallery-grid-dsc">
+                                <h5>Title 2023</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <div class="hm-gallery-grid">
+                            <div class="hm-gallery-grid-img-cntlr">
+                                <div class="hm-gallery-grid-img">
+                                    <img src="assets/images/gallery-2.jpg" />
+                                </div>
+                            </div>
+                            <div class="hm-gallery-grid-dsc">
+                                <h5>Title 2023</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <div class="hm-gallery-grid">
+                            <div class="hm-gallery-grid-img-cntlr">
+                                <div class="hm-gallery-grid-img">
+                                    <img src="assets/images/gallery-3.jpg" />
+                                </div>
+                            </div>
+                            <div class="hm-gallery-grid-dsc">
+                                <h5>Title 2023</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-testimonail-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="hm-enty-head text-center">
+                            <h2 style="margin-bottom: 50px">TESTIMONIALS</h2>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="tst-slider-cntlr">
+                            <div class="bnr-nxt-prev4">
+                                <span
+                                    class="fl-prev slick-arrow slick-disabled"
+                                    aria-disabled="true">
+                                    <i class="fas fa-angle-left"></i>
+                                </span>
+                                <span
+                                    class="fl-next slick-arrow"
+                                    aria-disabled="false">
+                                    <i class="fas fa-angle-right"></i>
+                                </span>
+                            </div>
+                            <div class="tst-slider">
+                                <div class="tst-slide-item">
+                                    <img
+                                        src="assets/images/tst-slide-img-1.png" />
+                                </div>
+                                <div class="tst-slide-item">
+                                    <img
+                                        src="assets/images/tst-slide-img-2.png" />
+                                </div>
+                                <div class="tst-slide-item">
+                                    <img
+                                        src="assets/images/tst-slide-img-3.png" />
+                                </div>
+                                <div class="tst-slide-item">
+                                    <img
+                                        src="assets/images/tst-slide-img-1.png" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="hm-client-cmt-sec-wrp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="hm-enty-head text-center">
+                            <h2 style="margin-bottom: 50px">
+                                CLIENTS COMMENTS
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="hm-client-cmt-img">
+                            <img src="assets/images/hm-client-cmt-img.png" />
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="hm-client-cmt-slider">
+                            <div class="hm-client-cmt-slide-item">
+                                <div
+                                    class="hm-client-cmt-slide-item-inr clearfix">
+                                    <div class="hm-client-cmt-slide-item-img">
+                                        <img
+                                            src="assets/images/hm-client-profile-img.png" />
+                                    </div>
+                                    <div class="hm-client-cmt-slide-item-dsc">
+                                        <h5>DAVID VILLAR</h5>
+                                        <span>Creative Heads Inc.</span>
+                                        <p>
+                                            The blinding splendor of the
+                                            diamond, the mighty <br />
+                                            power of the rocket!
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="hm-client-cmt-slide-item">
+                                <div
+                                    class="hm-client-cmt-slide-item-inr clearfix">
+                                    <div class="hm-client-cmt-slide-item-img">
+                                        <img
+                                            src="assets/images/hm-client-profile-img.png" />
+                                    </div>
+                                    <div class="hm-client-cmt-slide-item-dsc">
+                                        <h5>DAVID VILLAR</h5>
+                                        <span>Creative Heads Inc.</span>
+                                        <p>
+                                            The blinding splendor of the
+                                            diamond, the mighty <br />
+                                            power of the rocket!
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="hm-client-cmt-slide-item">
+                                <div
+                                    class="hm-client-cmt-slide-item-inr clearfix">
+                                    <div class="hm-client-cmt-slide-item-img">
+                                        <img
+                                            src="assets/images/hm-client-profile-img.png" />
+                                    </div>
+                                    <div class="hm-client-cmt-slide-item-dsc">
+                                        <h5>DAVID VILLAR</h5>
+                                        <span>Creative Heads Inc.</span>
+                                        <p>
+                                            The blinding splendor of the
+                                            diamond, the mighty <br />
+                                            power of the rocket!
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer-wrp">
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="ftr-top-innr clearfix">
+                                <div class="ftr-col-1 clearfix">
+                                    <div class="ftr-logo">
+                                        <a href="#"
+                                            ><img src="assets/images/logo.png"
+                                        /></a>
+                                    </div>
+                                    <div class="ftr-socail-icon">
+                                        <ul class="clearfix reset-list">
+                                            <li>
+                                                <a href="#"
+                                                    ><i
+                                                        class="fab fa-facebook-f"></i
+                                                ></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    ><i
+                                                        class="fab fa-twitter"></i
+                                                ></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    ><i
+                                                        class="fab fa-youtube"></i
+                                                ></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    ><i
+                                                        class="fab fa-instagram"></i
+                                                ></a>
+                                            </li>
+                                            <li>
+                                                <a href="#"
+                                                    ><i
+                                                        class="fab fa-linkedin-in"></i
+                                                ></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="ftr-col-2 ftr-menu">
+                                    <h5 class="ftr-menu-title">QUICK LINKS</h5>
+                                    <ul class="reset-list clearfix">
+                                        <li><a href="#">home</a></li>
+                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="#">OUR SERVICE</a></li>
+                                        <li><a href="#">OUR PROJECT</a></li>
+                                        <li><a href="#">OUR FACTORY</a></li>
+                                        <li><a href="#">EQUIPMENT LIST</a></li>
+                                        <li>
+                                            <a href="contact-us.html"
+                                                >CONTACT</a
+                                            >
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="ftr-col-3 ftr-menu">
+                                    <h5 class="ftr-menu-title">Map</h5>
+                                    <iframe
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.6957751105324!2d90.39925161536323!3d23.79384539303138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c71e0b8cdcff%3A0x3f2abbdbea4c2e2c!2sHouse%20%23%2077%2C%2077C%20Rd%20Number%204%2C%20Dhaka%201213!5e0!3m2!1sen!2sbd!4v1649322010148!5m2!1sen!2sbd"
+                                        width="100%"
+                                        height="120"
+                                        style="border: 0"
+                                        allowfullscreen=""
+                                        loading="lazy"
+                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                </div>
+                                <div class="ftr-col-4 ftr-menu">
+                                    <h5 class="ftr-menu-title">Contact Us</h5>
+                                    <ul class="reset-list clearfix">
+                                        <li>
+                                            <a href="#"
+                                                ><i
+                                                    class="fas fa-map-marker-alt"></i>
+                                                House # 77, Road # 04 , Block-C
+                                                Banani, Dhaka-1213,
+                                                Bangladesh.</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a href="tel:01622994455"
+                                                ><i class="fas fa-phone"></i> +
+                                                88 01622114455</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a href="mailto:info@idealbd.net"
+                                                ><i class="fas fa-envelope"></i>
+                                                info@majorsteel.com</a
+                                            >
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-btm">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="footer-btm-wrp clearfix">
+                                <div class="footer-btm-lft">
+                                    <p>
+                                        Copyright &copy; <script> document.write(new Date().getFullYear()); </script> Major Steel Bd.
+                                        All Rights Reserved.
+                                    </p>
+                                </div>
+                                <div class="footer-btm-rgt">
+                                    <span
+                                        >Design &amp; Develop By -
+                                        <a href="https://www.wanitltd.com/">
+                                            WAN IT Limited</a
+                                        ></span
+                                    >
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+        <script src="https://code.jquery.com/jquery-migrate-3.0.0.js"></script>
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/bootstrap-select.min.js"></script>
+        <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+        <script src="assets/fancybox3/dist/jquery.fancybox.min.js"></script>
+        <script src="assets/slick.slider/slick.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBo2-QJ7RdCkLw3NFZEu71mEKJ_8LczG-c"></script>
+        <script src="assets/js/jquery.matchHeight-min.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>

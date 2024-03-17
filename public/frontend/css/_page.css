@@ -1,0 +1,163 @@
+/*
+--------------------
+ Inner page
+--------------------
+*/
+.page-header {
+    background: linear-gradient(
+            to right,
+            rgb(30 113 103) 0%,
+            rgba(2, 36, 91, 0) 100%
+        ),
+        url(../images/breadcrumb.jpg) center no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.page-header .breadcrumb-item + .breadcrumb-item::before {
+    color: #f5f5f5;
+}
+
+.page-header .breadcrumb-item,
+.page-header .breadcrumb-item a {
+    font-size: 18px;
+    color: #f5f5f5;
+    font-size: 18px;
+    color: #f5f5f5;
+    font-weight: 600;
+}
+.page-header .breadcrumb-item a:hover,
+.page-header .breadcrumb-item.active {
+    color: #171717;
+}
+.page-header .breadcrumb {
+    background: none;
+    padding: 8px;
+    background: none;
+    padding: 8px;
+}
+/*
+--------------------
+ Pagination
+--------------------
+*/
+.slick-slider ul.slick-dots {
+    position: static;
+    line-height: 0;
+    padding: 0 20px !important;
+    display: flex;
+    justify-content: center;
+}
+.hm-slider.slick-slider ul.slick-dots {
+    position: relative;
+    bottom: 40px;
+}
+.hm-client-list-slider.slick-slider ul.slick-dots {
+    position: relative;
+    bottom: -30px;
+}
+.slick-slider .slick-dots li {
+    width: 18px !important;
+    height: 18px !important;
+    position: static;
+    background: #1f944e !important;
+    margin: 0 7px;
+    padding: 0 !important;
+}
+.slick-slider .slick-dots li.slick-active {
+    background: #fe0101 !important;
+}
+.slick-slider .slick-dots li:before,
+.slick-slider .slick-dots li button:before {
+    content: none !important;
+}
+.slick-slider .slick-dots li button {
+    padding: 0;
+    width: 20px;
+    height: 20px;
+}
+
+/*
+-------------------
+ Slider Css
+-------------------
+*/
+.hm-project-slider.slick-dotted.slick-slider {
+    margin-bottom: 0;
+}
+
+/*
+========================
+ Animate 
+========================
+*/
+.hm-slider
+    .hm-slide-item.slick-current
+    .hm-slide-item-dsc
+    h1.hm-slide-bn-fnt-1 {
+    -webkit-animation-name: fadeInLeftShort;
+    animation-name: fadeInLeftShort;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+.hm-slider
+    .hm-slide-item.slick-current
+    .hm-slide-item-dsc
+    h1.hm-slide-bn-fnt-2 {
+    -webkit-animation-name: fadeInDownShort;
+    animation-name: fadeInDownShort;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-delay: 1.8s;
+    animation-delay: 1.8s;
+}
+.hm-slider
+    .hm-slide-item.slick-current
+    .hm-slide-item-dsc
+    h1.hm-slide-bn-fnt-3 {
+    -webkit-animation-name: fadeInUpShort;
+    animation-name: fadeInUpShort;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-delay: 1.1s;
+    animation-delay: 1.1s;
+}
+
+/*.hm-slider .hm-slide-item.slick-current .hm-slide-item-dsc h1.hm-slide-bn-fnt-1{
+  -webkit-animation-name: fadeInLeftShort;
+  animation-name: fadeInLeftShort;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;  
+  -webkit-animation-delay: 1.7s;
+  animation-delay: 1.7s;  
+}
+.hm-slider .hm-slide-item.slick-current .hm-slide-item-dsc h1.hm-slide-bn-fnt-2{
+  -webkit-animation-name: fadeInDownShort;
+  animation-name: fadeInDownShort;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;  
+  -webkit-animation-delay: 2.2s;
+  animation-delay: 2.2s;
+}
+.hm-slider .hm-slide-item.slick-current .hm-slide-item-dsc h1.hm-slide-bn-fnt-3{
+  -webkit-animation-name: fadeInUpShort;
+  animation-name: fadeInUpShort;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;  
+  -webkit-animation-delay: 2.6s;
+  animation-delay: 2.6s;    
+}*/

@@ -1,0 +1,43 @@
+.contact-information {
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #fff;
+}
+.contact-information h3 {
+    margin-bottom: 15px;
+}
+.contact-information ul li {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+.contact-information ul li span {
+    min-width: 140px;
+}
+
+.contact-information ul li a {
+    color: #303030 !important;
+}
+.contact-information ul li a:hover {
+    color: #1f944e;
+}
+.contact-information ul li p {
+    text-align: inherit;
+}
+.contact-inputs p {
+    border-bottom: 1px solid #e7e7e7;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+/* Button */
+button.btn.contact-btn {
+    border-radius: 0;
+    background: #1f944e;
+    border: none;
+    padding: 8px 24px;
+    transition: background-color 0.6s ease-in-out;
+}
+button.btn.contact-btn:hover {
+    background: #fe0101;
+}
